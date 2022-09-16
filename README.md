@@ -22,3 +22,19 @@ Red bull. I trained with at least 30 images and built the app on Power Apps.
 ### Components Used
 - AI Builder in PowerApps
 - PowerApps
+
+# School Learning App
+### Description
+I developed a school learning app to help the school management effectively manage a school. The platform had two components the student dashboard and the teacher 
+dashboard. 
+
+### Features
+1. The teacher can be able to monitor the student progress and also assign the student with assignments and also dividing the students into groups
+2. The students can be able to view their assignments and also their assigned groups 
+3. The teacher can share the progress of their student to the parents on the platform
+
+### Components used
+- Power Apps
+- Excel 
+- Office 365 Profile
+- SharePoint (News)
