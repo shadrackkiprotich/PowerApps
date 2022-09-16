@@ -11,7 +11,7 @@ and also solving traffic related cases on traffic
 - Sharepoint
 - PowerApps
 
-#AI BUILDER DETECTOR
+# AI BUILDER DETECTOR
 This demo on Artificial Intelligence in PowerApps during the Microsof Student Summit Africa 2020. The application is built on PowerApps where a supermarket 
 owner can be able to know when the stock is almost depleting. For this particular demo I used two soft  drinks for the demo to train my model that is Pepsi and 
 Red bull. I trained with at least 30 images and built the app on Power Apps.
